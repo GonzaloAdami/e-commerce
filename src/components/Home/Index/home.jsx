@@ -1,6 +1,7 @@
 import React from "react";
-import Navbar from './navbar'
-import Catalogo from './catalogo'
+import Navbar from "../component/navbar";
+import Catalogo from "../component/catalogo";
+import Pages from "../component/pages";
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
         <>
             <Navbar></Navbar>
             <Catalogo></Catalogo>
+            <Pages></Pages>
         </>
     );
 };
