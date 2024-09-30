@@ -1,0 +1,459 @@
+{
+    "BD": {
+        "Producto": [
+            {
+                "id": "0",
+                "portada": "https://calcobel.com.ar/wp-content/uploads/2021/11/remera-negra.jpg",
+                "genero": "Hombre",
+                "tipo": "Remera",
+                "nombre": "Remera manga corta",
+                "precio": 200,
+                "review": 120,
+                "fotos": [
+                    "https://calcobel.com.ar/wp-content/uploads/2021/11/remera-negra.jpg",
+                    "https://acdn.mitiendanube.com/stores/001/218/661/products/28730-13-1-487630d2a544ff66bf17177837472688-640-0.webp",
+                    "https://acdn.mitiendanube.com/stores/001/218/661/products/28730-13-2-472bb0ba386ce92d0517177837499219-640-0.webp",
+                    "https://http2.mlstatic.com/D_981020-MLA77543557062_072024-O.jpg"
+                ],
+                "tamaños": [
+                    "XXS",
+                    "XS",
+                    "S",
+                    "M",
+                    "L"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#B9101E",
+                        "reputacion": "Mala",
+                        "reputacionIcon": "https://res.cloudinary.com/dt6otshxt/image/upload/fl_preserve_transparency/v1726650569/down-arrows-download-svgrepo-com_ikt3qr.jpg?_s=public-apps",
+                        "porcentaje": 25,
+                        "atributo": "Reputacion",
+                        "icon": "https://res.cloudinary.com/dt6otshxt/image/upload/fl_preserve_transparency/v1726600219/verified-ui-shield-svgrepo-com_2_hri0jr.jpg?_s=public-apps"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://res.cloudinary.com/dt6otshxt/image/upload/fl_preserve_transparency/v1726650899/user-people-account-svgrepo-com_1_zctevy.jpg?_s=public-apps",
+                        "porcentaje": 50,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://res.cloudinary.com/dt6otshxt/image/upload/fl_preserve_transparency/v1726650201/up-direction-upload-svgrepo-com_1_lfdxqb.jpg?_s=public-apps",
+                        "porcentaje": 75,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://asset.cloudinary.com/dt6otshxt/19807a3983ada126be1c1e79d481724d"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Juan Pérez",
+                        "comentario": "Muy buena remera, me encanta la tela y el color negro es muy elegante.",
+                        "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+                        "estrellas": 4
+                    },
+                    {
+                        "nombre": "María López",
+                        "comentario": "La remera blanca es perfecta para el verano, súper cómoda y ligera.",
+                        "foto": "https://randomuser.me/api/portraits/women/44.jpg",
+                        "estrellas": 5
+                    },
+                    {
+                        "nombre": "Carlos García",
+                        "comentario": "Compré la gris y me encanta, va bien con todo, la calidad es excelente.",
+                        "foto": "https://randomuser.me/api/portraits/men/65.jpg",
+                        "estrellas": 3
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "portada": "https://kremiamoda.com/wp-content/uploads/2024/07/Pantalon-de-mujer-24614-4-900x1350.jpg",
+                "genero": "Mujer",
+                "tipo": "Pantalon",
+                "nombre": "Pantalón de mujer",
+                "precio": 150,
+                "review": 90,
+                "fotos": [
+                    "https://kremiamoda.com/wp-content/uploads/2024/07/Pantalon-de-mujer-24614-5-900x1350.jpg",
+                    "https://kremiamoda.com/wp-content/uploads/2024/07/Pantalon-de-mujer-24614-4-900x1350.jpg",
+                    "https://kremiamoda.com/wp-content/uploads/2024/07/Pantalon-de-mujer-24614-3-900x1350.jpg",
+                    "https://kremiamoda.com/wp-content/uploads/2024/07/Pantalon-de-mujer-24614-7-900x1350.jpg"
+                ],
+                "tamaños": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 80,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 60,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 75,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Ana García",
+                        "comentario": "El pantalón es súper cómodo y de buena calidad.",
+                        "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+                        "estrellas": 5
+                    },
+                    {
+                        "nombre": "Luis Fernández",
+                        "comentario": "Me gusta el diseño, aunque podría ser un poco más ajustado.",
+                        "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+                        "estrellas": 4
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "portada": "https://image.made-in-china.com/202f0j00jbYkDZVGZacm/2023-New-Custom-Mens-Long-Sleeves-Casual-Plaid-Cotton-Flannel-Shirt-for-Men.webp",
+                "genero": "Unisex",
+                "tipo": "Camisa",
+                "nombre": "Camisa de cuadros",
+                "precio": 250,
+                "review": 200,
+                "fotos": [
+                    "https://image.made-in-china.com/202f0j00jbYkDZVGZacm/2023-New-Custom-Mens-Long-Sleeves-Casual-Plaid-Cotton-Flannel-Shirt-for-Men.webp",
+                    "https://dioro.com.mx/cdn/shop/products/2209292-FRA_1.jpg?v=1662146738&width=1200",
+                    "https://dioro.com.mx/cdn/shop/products/2209292-FRA_3.jpg?v=1662146738&width=1200",
+                    "https://http2.mlstatic.com/D_NQ_NP_851395-MLA50288414340_062022-O.webp"
+                ],
+                "tamaños": [
+                    "M",
+                    "L",
+                    "XL"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 90,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 60,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 80,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Ricardo Martínez",
+                        "comentario": "Me encanta esta camisa, es perfecta para el trabajo.",
+                        "foto": "https://randomuser.me/api/portraits/men/3.jpg",
+                        "estrellas": 5
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "portada": "https://http2.mlstatic.com/D_NQ_NP_714045-MLA41721578214_052020-O.webp",
+                "genero": "Hombre",
+                "tipo": "Chaqueta",
+                "nombre": "Chaqueta de cuero",
+                "precio": 350,
+                "review": 180,
+                "fotos": [
+                    "https://http2.mlstatic.com/D_NQ_NP_843123-MLA72324625658_102023-O.webp",
+                    "https://http2.mlstatic.com/D_NQ_NP_809543-MLA41634735796_052020-O.webp",
+                    "https://http2.mlstatic.com/D_NQ_NP_762450-MLA41617761286_052020-O.webp",
+                    "https://acdn.mitiendanube.com/stores/001/344/226/products/dsc010211-2ada20d98916529f3216271446904138-640-0.webp"
+                ],
+                "tamaños": [
+                    "S",
+                    "M",
+                    "L"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 85,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 65,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 70,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Lucía Torres",
+                        "comentario": "La chaqueta es muy bonita y de buena calidad.",
+                        "foto": "https://randomuser.me/api/portraits/women/4.jpg",
+                        "estrellas": 5
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "portada": "https://elboyero.com/25709-thickbox_default/zapatilla-cuero-con-cordones-el-boyero.jpg",
+                "genero": "Hombre",
+                "tipo": "Zapatos",
+                "nombre": "Zapatos de cuero",
+                "precio": 600,
+                "review": 150,
+                "fotos": [
+                    "https://elboyero.com/25709-thickbox_default/zapatilla-cuero-con-cordones-el-boyero.jpg",
+                    "https://elboyero.com/25711-thickbox_default/zapatilla-cuero-con-cordones-el-boyero.jpg",
+                    "https://elboyero.com/25712-thickbox_default/zapatilla-cuero-con-cordones-el-boyero.jpg",
+                    "https://elboyero.com/25708-thickbox_default/zapatilla-cuero-con-cordones-el-boyero.jpg"
+                ],
+                "tamaños": [
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 90,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 70,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 75,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Pedro Gómez",
+                        "comentario": "Excelentes zapatos, muy cómodos.",
+                        "foto": "https://randomuser.me/api/portraits/men/5.jpg",
+                        "estrellas": 5
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "portada": "https://dorianargentina.com/wp-content/uploads/2023/07/HarlingtonSuela1.jpg",
+                "genero": "Unisex",
+                "tipo": "Bolso",
+                "nombre": "Bolso de mano",
+                "precio": 250,
+                "review": 130,
+                "fotos": [
+                    "https://dorianargentina.com/wp-content/uploads/2023/07/HarlingtonSuela1.jpg",
+                    "https://dorianargentina.com/wp-content/uploads/2023/07/Bolso-Arlington-suela-modelo-scaled.jpg",
+                    "https://dorianargentina.com/wp-content/uploads/2023/07/bolso-cuero-viaje-mano-hombre-arlington-suela-modelo-scaled.jpg",
+                    "https://dorianargentina.com/wp-content/uploads/2023/07/HarlingtonSuela4.jpg"
+                ],
+                "tamaños": [
+                    "Único"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 85,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 65,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 70,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Sara Jiménez",
+                        "comentario": "Me encanta el bolso, muy espacioso y bonito.",
+                        "foto": "https://randomuser.me/api/portraits/women/6.jpg",
+                        "estrellas": 5
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "portada": "https://tienda.gfitness.com.ar/web/image/product.product/3580/image_1024/%5BMD1646%5D%20Cinturon%20de%20Cuero%20para%20Levantamiento.%20MOD%20MD?unique=cea2066",
+                "genero": "Hombre",
+                "tipo": "Cinturón",
+                "nombre": "Cinturón de cuero",
+                "precio": 100,
+                "review": 70,
+                "fotos": [
+                    "https://tienda.gfitness.com.ar/web/image/130836/Originales-45-2.JPG?access_token=37d6357b-c7cf-4650-a1b7-7e91205d2f37",
+                    "https://tienda.gfitness.com.ar/web/image/130836/Originales-45-2.JPG?access_token=37d6357b-c7cf-4650-a1b7-7e91205d2f37",
+                    "https://tienda.gfitness.com.ar/web/image/130848/Originales-48-2.JPG?access_token=e46dca9c-092d-4189-a0fd-51d48742f486",
+                    "https://tienda.gfitness.com.ar/web/image/product.image/2229/image_1024/Cinturon%20de%20Cuero%20para%20Levantamiento.%20MOD%20MD?unique=9620374"
+                ],
+                "tamaños": [
+                    "S",
+                    "M",
+                    "L"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 90,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 60,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 75,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Jorge López",
+                        "comentario": "Buen cinturón, se ve muy duradero.",
+                        "foto": "https://randomuser.me/api/portraits/men/7.jpg",
+                        "estrellas": 4
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "portada": "https://posco.com.ar/cdn/shop/products/IMG_9715.jpg?v=1683182708&width=1445",
+                "genero": "Unisex",
+                "tipo": "Gorro",
+                "nombre": "Gorro de lana",
+                "precio": 80,
+                "review": 50,
+                "fotos": [
+                    "https://posco.com.ar/cdn/shop/products/IMG_9715.jpg?v=1683182708&width=1445",
+                    "https://posco.com.ar/cdn/shop/products/POSCO_7155.jpg?v=1683182705&width=1946",
+                    "https://s1.abcstatics.com/media/summum/2022/10/22/arkett-ksAD--660x372@abc.png",
+                    "https://posco.com.ar/cdn/shop/products/POSCO_7333.jpg?v=1692808237&width=1946"
+                ],
+                "tamaños": [
+                    "Único"
+                ],
+                "reputacion": {
+                    "reputacion": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-bueno.png",
+                        "porcentaje": 80,
+                        "atributo": "Reputacion",
+                        "icon": "https://example.com/icono-verificado.png"
+                    },
+                    "atencion": {
+                        "color": "#ffa819",
+                        "reputacion": "Media",
+                        "reputacionIcon": "https://example.com/icono-media.png",
+                        "porcentaje": 65,
+                        "atributo": "Atencion",
+                        "icon": ""
+                    },
+                    "velocidad": {
+                        "color": "#19ff77",
+                        "reputacion": "Buena",
+                        "reputacionIcon": "https://example.com/icono-rapido.png",
+                        "porcentaje": 70,
+                        "atributo": "Velocidad de entrega",
+                        "icon": "https://example.com/icono-entrega.png"
+                    }
+                },
+                "comentarios": [
+                    {
+                        "nombre": "Patricia Ruiz",
+                        "comentario": "El gorro es muy cálido, ideal para el invierno.",
+                        "foto": "https://randomuser.me/api/portraits/women/8.jpg",
+                        "estrellas": 5
+                    }
+                ]
+            }
+         
+        ]
+    }
+}
